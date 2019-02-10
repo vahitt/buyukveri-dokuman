@@ -1,2 +1,2 @@
-### Döküman pdf uzantılıdır
+### Doküman pdf uzantılıdır
 
